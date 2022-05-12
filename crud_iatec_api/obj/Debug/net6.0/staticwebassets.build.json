@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cm6NPhkcRYb+tmq6aiPClougUINPL/l0Sg0D8Rf1uKU=",
+  "Source": "crud_iatec_api",
+  "BasePath": "_content/crud_iatec_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
